@@ -1,0 +1,270 @@
+22:11:04.821 [main] INFO  testCases.TC003_Datadriven_Test - Clicked on Login link
+22:11:04.904 [main] INFO  testCases.TC003_Datadriven_Test - Providing login info
+22:11:06.721 [main] INFO  testCases.TC003_Datadriven_Test - Clicked on continue
+22:11:06.722 [main] INFO  testCases.TC003_Datadriven_Test - Validating expected msg
+22:11:07.474 [main] INFO  testCases.TC003_Datadriven_Test - +++ Finished Login & Logout test ++++++ 
+22:11:07.648 [main] INFO  testCases.TC003_Datadriven_Test - ++++++ Starting verify_Datadriven_Test ++++++
+22:11:07.871 [main] INFO  testCases.TC003_Datadriven_Test - Clicked on My account link
+22:11:08.397 [main] INFO  testCases.TC003_Datadriven_Test - Clicked on Login link
+22:11:08.398 [main] INFO  testCases.TC003_Datadriven_Test - Providing login info
+22:11:09.836 [main] INFO  testCases.TC003_Datadriven_Test - Clicked on continue
+22:11:09.837 [main] INFO  testCases.TC003_Datadriven_Test - Validating expected msg
+22:11:10.990 [main] INFO  testCases.TC003_Datadriven_Test - ++++++ Starting verify_Datadriven_Test ++++++
+22:11:11.279 [main] INFO  testCases.TC003_Datadriven_Test - Clicked on My account link
+22:11:11.873 [main] INFO  testCases.TC003_Datadriven_Test - Clicked on Login link
+22:11:11.874 [main] INFO  testCases.TC003_Datadriven_Test - Providing login info
+22:11:13.718 [main] INFO  testCases.TC003_Datadriven_Test - Clicked on continue
+22:11:13.718 [main] INFO  testCases.TC003_Datadriven_Test - Validating expected msg
+22:11:15.002 [main] INFO  testCases.TC003_Datadriven_Test - ++++++ Starting verify_Datadriven_Test ++++++
+22:11:15.182 [main] INFO  testCases.TC003_Datadriven_Test - Clicked on My account link
+22:11:15.622 [main] INFO  testCases.TC003_Datadriven_Test - Clicked on Login link
+22:11:15.623 [main] INFO  testCases.TC003_Datadriven_Test - Providing login info
+22:11:16.898 [main] INFO  testCases.TC003_Datadriven_Test - Clicked on continue
+22:11:16.900 [main] INFO  testCases.TC003_Datadriven_Test - Validating expected msg
+22:11:31.969 [main] INFO  testCases.TC003_Datadriven_Test - +++ Finished Login & Logout test ++++++ 
+22:11:31.985 [main] INFO  testCases.TC003_Datadriven_Test - ++++++ Starting verify_Datadriven_Test ++++++
+22:11:32.211 [main] INFO  testCases.TC003_Datadriven_Test - Clicked on My account link
+22:11:32.708 [main] INFO  testCases.TC003_Datadriven_Test - Clicked on Login link
+22:11:32.709 [main] INFO  testCases.TC003_Datadriven_Test - Providing login info
+22:11:34.438 [main] INFO  testCases.TC003_Datadriven_Test - Clicked on continue
+22:11:34.438 [main] INFO  testCases.TC003_Datadriven_Test - Validating expected msg
+22:11:35.302 [main] INFO  testCases.TC003_Datadriven_Test - +++ Finished Login & Logout test ++++++ 
+22:11:35.323 [main] INFO  testCases.TC003_Datadriven_Test - ++++++ Starting verify_Datadriven_Test ++++++
+22:11:35.553 [main] INFO  testCases.TC003_Datadriven_Test - Clicked on My account link
+22:11:36.003 [main] INFO  testCases.TC003_Datadriven_Test - Clicked on Login link
+22:11:36.004 [main] INFO  testCases.TC003_Datadriven_Test - Providing login info
+22:11:37.368 [main] INFO  testCases.TC003_Datadriven_Test - Clicked on continue
+22:11:37.369 [main] INFO  testCases.TC003_Datadriven_Test - Validating expected msg
+22:11:52.407 [main] INFO  testCases.TC003_Datadriven_Test - +++ Finished Login & Logout test ++++++ 
+22:29:06.320 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  D:\wilson_workspace2025\Opencart_proj\Grouping.xml
+
+22:29:29.880 [main] INFO  testCases.TC001_AccountRegistration_Test - ++++++ Starting verify_account_registriation ++++++
+22:29:31.102 [main] INFO  testCases.TC001_AccountRegistration_Test - Clicked on My account link
+22:29:32.099 [main] INFO  testCases.TC001_AccountRegistration_Test - Clicked on Register link
+22:29:32.127 [main] INFO  testCases.TC001_AccountRegistration_Test - Providing registration info
+22:29:34.956 [main] INFO  testCases.TC001_AccountRegistration_Test - Clicked on continue
+22:29:34.957 [main] INFO  testCases.TC001_AccountRegistration_Test - Validating expected msg
+22:29:34.958 [main] INFO  testCases.TC001_AccountRegistration_Test - +++ Finished verify_account_registriation ++++++ 
+22:29:45.192 [main] INFO  testCases.TC002_Login_Test - ++++++ Starting verify_login ++++++
+22:29:46.275 [main] INFO  testCases.TC002_Login_Test - Clicked on My account link
+22:29:48.125 [main] INFO  testCases.TC002_Login_Test - Clicked on Login link
+22:29:48.130 [main] INFO  testCases.TC002_Login_Test - Providing login info
+22:29:48.860 [main] INFO  testCases.TC002_Login_Test - Clicked on continue
+22:29:48.860 [main] INFO  testCases.TC002_Login_Test - Validating expected msg
+22:29:49.973 [main] INFO  testCases.TC002_Login_Test - +++ Finished Login & Logout test ++++++ 
+22:40:13.993 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  D:\wilson_workspace2025\Opencart_proj\Master.xml
+
+22:40:31.638 [main] INFO  testCases.TC003_Datadriven_Test - ++++++ Starting verify_Datadriven_Test ++++++
+22:40:32.026 [main] INFO  testCases.TC003_Datadriven_Test - Clicked on My account link
+22:40:32.797 [main] INFO  testCases.TC003_Datadriven_Test - Clicked on Login link
+22:40:32.822 [main] INFO  testCases.TC003_Datadriven_Test - Providing login info
+22:40:34.597 [main] INFO  testCases.TC003_Datadriven_Test - Clicked on continue
+22:40:34.598 [main] INFO  testCases.TC003_Datadriven_Test - Validating expected msg
+22:40:35.421 [main] INFO  testCases.TC003_Datadriven_Test - +++ Finished Login & Logout test ++++++ 
+22:40:35.489 [main] INFO  testCases.TC003_Datadriven_Test - ++++++ Starting verify_Datadriven_Test ++++++
+22:40:35.665 [main] INFO  testCases.TC003_Datadriven_Test - Clicked on My account link
+22:40:36.180 [main] INFO  testCases.TC003_Datadriven_Test - Clicked on Login link
+22:40:36.181 [main] INFO  testCases.TC003_Datadriven_Test - Providing login info
+22:40:37.832 [main] INFO  testCases.TC003_Datadriven_Test - Clicked on continue
+22:40:37.833 [main] INFO  testCases.TC003_Datadriven_Test - Validating expected msg
+22:40:42.999 [main] INFO  testCases.TC003_Datadriven_Test - ++++++ Starting verify_Datadriven_Test ++++++
+22:40:43.153 [main] INFO  testCases.TC003_Datadriven_Test - Clicked on My account link
+22:40:43.580 [main] INFO  testCases.TC003_Datadriven_Test - Clicked on Login link
+22:40:43.581 [main] INFO  testCases.TC003_Datadriven_Test - Providing login info
+22:40:44.989 [main] INFO  testCases.TC003_Datadriven_Test - Clicked on continue
+22:40:44.990 [main] INFO  testCases.TC003_Datadriven_Test - Validating expected msg
+22:40:49.939 [main] INFO  testCases.TC003_Datadriven_Test - ++++++ Starting verify_Datadriven_Test ++++++
+22:40:50.103 [main] INFO  testCases.TC003_Datadriven_Test - Clicked on My account link
+22:40:50.565 [main] INFO  testCases.TC003_Datadriven_Test - Clicked on Login link
+22:40:50.569 [main] INFO  testCases.TC003_Datadriven_Test - Providing login info
+22:40:51.823 [main] INFO  testCases.TC003_Datadriven_Test - Clicked on continue
+22:40:51.826 [main] INFO  testCases.TC003_Datadriven_Test - Validating expected msg
+22:41:01.907 [main] INFO  testCases.TC003_Datadriven_Test - +++ Finished Login & Logout test ++++++ 
+22:41:01.918 [main] INFO  testCases.TC003_Datadriven_Test - ++++++ Starting verify_Datadriven_Test ++++++
+22:41:02.132 [main] INFO  testCases.TC003_Datadriven_Test - Clicked on My account link
+22:41:02.625 [main] INFO  testCases.TC003_Datadriven_Test - Clicked on Login link
+22:41:02.628 [main] INFO  testCases.TC003_Datadriven_Test - Providing login info
+22:41:04.345 [main] INFO  testCases.TC003_Datadriven_Test - Clicked on continue
+22:41:04.346 [main] INFO  testCases.TC003_Datadriven_Test - Validating expected msg
+22:41:05.132 [main] INFO  testCases.TC003_Datadriven_Test - +++ Finished Login & Logout test ++++++ 
+22:41:05.151 [main] INFO  testCases.TC003_Datadriven_Test - ++++++ Starting verify_Datadriven_Test ++++++
+22:41:05.339 [main] INFO  testCases.TC003_Datadriven_Test - Clicked on My account link
+22:41:05.809 [main] INFO  testCases.TC003_Datadriven_Test - Clicked on Login link
+22:41:05.812 [main] INFO  testCases.TC003_Datadriven_Test - Providing login info
+22:41:07.136 [main] INFO  testCases.TC003_Datadriven_Test - Clicked on continue
+22:41:07.136 [main] INFO  testCases.TC003_Datadriven_Test - Validating expected msg
+22:41:17.167 [main] INFO  testCases.TC003_Datadriven_Test - +++ Finished Login & Logout test ++++++ 
+22:51:55.042 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  D:\wilson_workspace2025\Opencart_proj\Grouping.xml
+
+22:52:06.571 [main] INFO  testCases.TC001_AccountRegistration_Test - ++++++ Starting verify_account_registriation ++++++
+22:52:06.861 [main] INFO  testCases.TC001_AccountRegistration_Test - Clicked on My account link
+22:52:07.842 [main] INFO  testCases.TC001_AccountRegistration_Test - Clicked on Register link
+22:52:07.859 [main] INFO  testCases.TC001_AccountRegistration_Test - Providing registration info
+22:52:10.642 [main] INFO  testCases.TC001_AccountRegistration_Test - Clicked on continue
+22:52:10.642 [main] INFO  testCases.TC001_AccountRegistration_Test - Validating expected msg
+22:52:10.643 [main] INFO  testCases.TC001_AccountRegistration_Test - +++ Finished verify_account_registriation ++++++ 
+22:52:19.491 [main] INFO  testCases.TC002_Login_Test - ++++++ Starting verify_login ++++++
+22:52:20.636 [main] INFO  testCases.TC002_Login_Test - Clicked on My account link
+22:52:22.302 [main] INFO  testCases.TC002_Login_Test - Clicked on Login link
+22:52:22.310 [main] INFO  testCases.TC002_Login_Test - Providing login info
+22:52:23.859 [main] INFO  testCases.TC002_Login_Test - Clicked on continue
+22:52:26.860 [main] INFO  testCases.TC002_Login_Test - Validating expected msg
+23:28:33.276 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  D:\wilson_workspace2025\Opencart_proj\Master.xml
+
+23:29:15.482 [main] INFO  testCases.TC001_AccountRegistration_Test - ++++++ Starting verify_account_registriation ++++++
+23:29:16.438 [main] INFO  testCases.TC001_AccountRegistration_Test - Clicked on My account link
+23:29:18.450 [main] INFO  testCases.TC001_AccountRegistration_Test - Clicked on Register link
+23:29:18.519 [main] INFO  testCases.TC001_AccountRegistration_Test - Providing registration info
+23:29:22.553 [main] INFO  testCases.TC001_AccountRegistration_Test - Clicked on continue
+23:29:22.554 [main] INFO  testCases.TC001_AccountRegistration_Test - Validating expected msg
+23:29:22.559 [main] INFO  testCases.TC001_AccountRegistration_Test - +++ Finished verify_account_registriation ++++++ 
+23:29:37.996 [main] INFO  testCases.TC002_Login_Test - ++++++ Starting verify_login ++++++
+23:29:38.233 [main] INFO  testCases.TC002_Login_Test - Clicked on My account link
+23:29:40.350 [main] INFO  testCases.TC002_Login_Test - Clicked on Login link
+23:29:40.401 [main] INFO  testCases.TC002_Login_Test - Providing login info
+23:29:41.125 [main] INFO  testCases.TC002_Login_Test - Clicked on continue
+23:29:44.133 [main] INFO  testCases.TC002_Login_Test - Validating expected msg
+23:42:05.175 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  D:\wilson_workspace2025\Opencart_proj\test-output\testng-failed.xml
+
+23:42:24.082 [main] INFO  testCases.TC002_Login_Test - ++++++ Starting verify_login ++++++
+23:42:24.809 [main] INFO  testCases.TC002_Login_Test - Clicked on My account link
+23:42:26.323 [main] INFO  testCases.TC002_Login_Test - Clicked on Login link
+23:42:26.384 [main] INFO  testCases.TC002_Login_Test - Providing login info
+23:42:27.301 [main] INFO  testCases.TC002_Login_Test - Clicked on continue
+23:42:30.315 [main] INFO  testCases.TC002_Login_Test - Validating expected msg
+23:42:30.436 [main] INFO  testCases.TC002_Login_Test - +++ Finished Login & Logout test ++++++ 
+22:37:47.874 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  D:\wilson_workspace2025\Opencart_proj\Master.xml
+
+22:38:49.979 [main] INFO  testCases.TC001_AccountRegistration_Test - ++++++ Starting verify_account_registriation ++++++
+22:38:54.142 [main] INFO  testCases.TC001_AccountRegistration_Test - Clicked on My account link
+22:38:56.432 [main] INFO  testCases.TC001_AccountRegistration_Test - Clicked on Register link
+22:38:56.667 [main] INFO  testCases.TC001_AccountRegistration_Test - Providing registration info
+22:39:04.122 [main] INFO  testCases.TC001_AccountRegistration_Test - Clicked on continue
+22:39:04.122 [main] INFO  testCases.TC001_AccountRegistration_Test - Validating expected msg
+22:39:04.123 [main] INFO  testCases.TC001_AccountRegistration_Test - +++ Finished verify_account_registriation ++++++ 
+22:39:27.532 [main] INFO  testCases.TC002_Login_Test - ++++++ Starting verify_login ++++++
+22:39:28.624 [main] INFO  testCases.TC002_Login_Test - Clicked on My account link
+22:39:31.563 [main] INFO  testCases.TC002_Login_Test - Clicked on Login link
+22:39:31.602 [main] INFO  testCases.TC002_Login_Test - Providing login info
+22:39:35.079 [main] INFO  testCases.TC002_Login_Test - Clicked on continue
+22:39:38.086 [main] INFO  testCases.TC002_Login_Test - Validating expected msg
+22:39:38.273 [main] INFO  testCases.TC002_Login_Test - +++ Finished Login & Logout test ++++++ 
+11:31:44.752 [main] INFO  testCases.TC001_AccountRegistration_Test - ++++++ Starting verify_account_registriation ++++++
+11:31:46.602 [main] INFO  testCases.TC001_AccountRegistration_Test - Clicked on My account link
+11:31:49.696 [main] INFO  testCases.TC001_AccountRegistration_Test - Clicked on Register link
+11:31:49.716 [main] INFO  testCases.TC001_AccountRegistration_Test - Providing registration info
+11:31:54.008 [main] INFO  testCases.TC001_AccountRegistration_Test - Clicked on continue
+11:31:54.008 [main] INFO  testCases.TC001_AccountRegistration_Test - Validating expected msg
+11:31:54.009 [main] INFO  testCases.TC001_AccountRegistration_Test - +++ Finished verify_account_registriation ++++++ 
+11:32:07.797 [main] INFO  testCases.TC002_Login_Test - ++++++ Starting verify_login ++++++
+11:32:09.023 [main] INFO  testCases.TC002_Login_Test - Clicked on My account link
+11:32:11.101 [main] INFO  testCases.TC002_Login_Test - Clicked on Login link
+11:32:11.108 [main] INFO  testCases.TC002_Login_Test - Providing login info
+11:32:11.832 [main] INFO  testCases.TC002_Login_Test - Clicked on continue
+11:32:14.834 [main] INFO  testCases.TC002_Login_Test - Validating expected msg
+11:32:14.932 [main] INFO  testCases.TC002_Login_Test - +++ Finished Login & Logout test ++++++ 
+11:32:38.221 [main] INFO  testCases.TC003_Datadriven_Test - ++++++ Starting verify_Datadriven_Test ++++++
+11:32:38.505 [main] INFO  testCases.TC003_Datadriven_Test - Clicked on My account link
+11:32:39.130 [main] INFO  testCases.TC003_Datadriven_Test - Clicked on Login link
+11:32:39.133 [main] INFO  testCases.TC003_Datadriven_Test - Providing login info
+11:32:40.723 [main] INFO  testCases.TC003_Datadriven_Test - Clicked on continue
+11:32:40.724 [main] INFO  testCases.TC003_Datadriven_Test - Validating expected msg
+11:32:41.599 [main] INFO  testCases.TC003_Datadriven_Test - +++ Finished Login & Logout test ++++++ 
+11:32:41.611 [main] INFO  testCases.TC003_Datadriven_Test - ++++++ Starting verify_Datadriven_Test ++++++
+11:32:41.863 [main] INFO  testCases.TC003_Datadriven_Test - Clicked on My account link
+11:32:42.406 [main] INFO  testCases.TC003_Datadriven_Test - Clicked on Login link
+11:32:42.410 [main] INFO  testCases.TC003_Datadriven_Test - Providing login info
+11:32:43.746 [main] INFO  testCases.TC003_Datadriven_Test - Clicked on continue
+11:32:43.747 [main] INFO  testCases.TC003_Datadriven_Test - Validating expected msg
+11:32:44.464 [main] INFO  testCases.TC003_Datadriven_Test - ++++++ Starting verify_Datadriven_Test ++++++
+11:32:44.624 [main] INFO  testCases.TC003_Datadriven_Test - Clicked on My account link
+11:32:45.073 [main] INFO  testCases.TC003_Datadriven_Test - Clicked on Login link
+11:32:45.074 [main] INFO  testCases.TC003_Datadriven_Test - Providing login info
+11:32:46.520 [main] INFO  testCases.TC003_Datadriven_Test - Clicked on continue
+11:32:46.521 [main] INFO  testCases.TC003_Datadriven_Test - Validating expected msg
+11:32:47.334 [main] INFO  testCases.TC003_Datadriven_Test - ++++++ Starting verify_Datadriven_Test ++++++
+11:32:47.572 [main] INFO  testCases.TC003_Datadriven_Test - Clicked on My account link
+11:32:48.207 [main] INFO  testCases.TC003_Datadriven_Test - Clicked on Login link
+11:32:48.209 [main] INFO  testCases.TC003_Datadriven_Test - Providing login info
+11:32:49.676 [main] INFO  testCases.TC003_Datadriven_Test - Clicked on continue
+11:32:49.677 [main] INFO  testCases.TC003_Datadriven_Test - Validating expected msg
+11:32:59.829 [main] INFO  testCases.TC003_Datadriven_Test - +++ Finished Login & Logout test ++++++ 
+11:32:59.835 [main] INFO  testCases.TC003_Datadriven_Test - ++++++ Starting verify_Datadriven_Test ++++++
+11:33:00.013 [main] INFO  testCases.TC003_Datadriven_Test - Clicked on My account link
+11:33:00.417 [main] INFO  testCases.TC003_Datadriven_Test - Clicked on Login link
+11:33:00.418 [main] INFO  testCases.TC003_Datadriven_Test - Providing login info
+11:33:01.838 [main] INFO  testCases.TC003_Datadriven_Test - Clicked on continue
+11:33:01.838 [main] INFO  testCases.TC003_Datadriven_Test - Validating expected msg
+11:33:02.520 [main] INFO  testCases.TC003_Datadriven_Test - +++ Finished Login & Logout test ++++++ 
+11:33:02.525 [main] INFO  testCases.TC003_Datadriven_Test - ++++++ Starting verify_Datadriven_Test ++++++
+11:33:02.690 [main] INFO  testCases.TC003_Datadriven_Test - Clicked on My account link
+11:33:03.117 [main] INFO  testCases.TC003_Datadriven_Test - Clicked on Login link
+11:33:03.120 [main] INFO  testCases.TC003_Datadriven_Test - Providing login info
+11:33:04.437 [main] INFO  testCases.TC003_Datadriven_Test - Clicked on continue
+11:33:04.438 [main] INFO  testCases.TC003_Datadriven_Test - Validating expected msg
+11:33:14.537 [main] INFO  testCases.TC003_Datadriven_Test - +++ Finished Login & Logout test ++++++ 
+12:25:28.433 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  D:\wilson_workspace2025\Opencart_proj\Master.xml
+
+12:25:50.572 [main] INFO  testCases.TC001_AccountRegistration_Test - ++++++ Starting verify_account_registriation ++++++
+12:25:51.807 [main] INFO  testCases.TC001_AccountRegistration_Test - Clicked on My account link
+12:25:52.873 [main] INFO  testCases.TC001_AccountRegistration_Test - Clicked on Register link
+12:25:52.892 [main] INFO  testCases.TC001_AccountRegistration_Test - Providing registration info
+12:25:56.017 [main] INFO  testCases.TC001_AccountRegistration_Test - Clicked on continue
+12:25:56.024 [main] INFO  testCases.TC001_AccountRegistration_Test - Validating expected msg
+12:25:56.026 [main] INFO  testCases.TC001_AccountRegistration_Test - +++ Finished verify_account_registriation ++++++ 
+12:26:07.742 [main] INFO  testCases.TC002_Login_Test - ++++++ Starting verify_login ++++++
+12:26:08.023 [main] INFO  testCases.TC002_Login_Test - Clicked on My account link
+12:26:09.790 [main] INFO  testCases.TC002_Login_Test - Clicked on Login link
+12:26:09.838 [main] INFO  testCases.TC002_Login_Test - Providing login info
+12:26:11.538 [main] INFO  testCases.TC002_Login_Test - Clicked on continue
+12:26:14.552 [main] INFO  testCases.TC002_Login_Test - Validating expected msg
+12:26:14.683 [main] INFO  testCases.TC002_Login_Test - +++ Finished Login & Logout test ++++++ 
+12:28:14.690 [main] INFO  testCases.TC001_AccountRegistration_Test - ++++++ Starting verify_account_registriation ++++++
+12:28:16.038 [main] INFO  testCases.TC001_AccountRegistration_Test - Clicked on My account link
+12:28:17.261 [main] INFO  testCases.TC001_AccountRegistration_Test - Clicked on Register link
+12:28:17.270 [main] INFO  testCases.TC001_AccountRegistration_Test - Providing registration info
+12:28:20.165 [main] INFO  testCases.TC001_AccountRegistration_Test - Clicked on continue
+12:28:20.166 [main] INFO  testCases.TC001_AccountRegistration_Test - Validating expected msg
+12:28:20.166 [main] INFO  testCases.TC001_AccountRegistration_Test - +++ Finished verify_account_registriation ++++++ 
+12:28:28.942 [main] INFO  testCases.TC002_Login_Test - ++++++ Starting verify_login ++++++
+12:28:29.782 [main] INFO  testCases.TC002_Login_Test - Clicked on My account link
+12:28:31.266 [main] INFO  testCases.TC002_Login_Test - Clicked on Login link
+12:28:31.276 [main] INFO  testCases.TC002_Login_Test - Providing login info
+12:28:33.047 [main] INFO  testCases.TC002_Login_Test - Clicked on continue
+12:28:36.065 [main] INFO  testCases.TC002_Login_Test - Validating expected msg
+12:28:36.165 [main] INFO  testCases.TC002_Login_Test - +++ Finished Login & Logout test ++++++ 
+15:10:06.461 [main] INFO  testCases.TC001_AccountRegistration_Test - ++++++ Starting verify_account_registriation ++++++
+15:10:07.769 [main] INFO  testCases.TC001_AccountRegistration_Test - Clicked on My account link
+15:10:09.892 [main] INFO  testCases.TC001_AccountRegistration_Test - Clicked on Register link
+15:10:09.913 [main] INFO  testCases.TC001_AccountRegistration_Test - Providing registration info
+15:10:13.042 [main] INFO  testCases.TC001_AccountRegistration_Test - Clicked on continue
+15:10:13.044 [main] INFO  testCases.TC001_AccountRegistration_Test - Validating expected msg
+15:10:13.045 [main] INFO  testCases.TC001_AccountRegistration_Test - +++ Finished verify_account_registriation ++++++ 
+15:10:24.150 [main] INFO  testCases.TC002_Login_Test - ++++++ Starting verify_login ++++++
+15:10:25.245 [main] INFO  testCases.TC002_Login_Test - Clicked on My account link
+15:10:27.515 [main] INFO  testCases.TC002_Login_Test - Clicked on Login link
+15:10:27.540 [main] INFO  testCases.TC002_Login_Test - Providing login info
+15:10:29.096 [main] INFO  testCases.TC002_Login_Test - Clicked on continue
+15:10:32.098 [main] INFO  testCases.TC002_Login_Test - Validating expected msg
+15:10:32.240 [main] INFO  testCases.TC002_Login_Test - +++ Finished Login & Logout test ++++++ 
+18:07:37.201 [main] INFO  testCases.TC001_AccountRegistration_Test - ++++++ Starting verify_account_registriation ++++++
+18:07:38.273 [main] INFO  testCases.TC001_AccountRegistration_Test - Clicked on My account link
+18:07:39.525 [main] INFO  testCases.TC001_AccountRegistration_Test - Clicked on Register link
+18:07:39.547 [main] INFO  testCases.TC001_AccountRegistration_Test - Providing registration info
+18:07:42.654 [main] INFO  testCases.TC001_AccountRegistration_Test - Clicked on continue
+18:07:42.654 [main] INFO  testCases.TC001_AccountRegistration_Test - Validating expected msg
+18:07:42.655 [main] INFO  testCases.TC001_AccountRegistration_Test - +++ Finished verify_account_registriation ++++++ 
+18:07:55.009 [main] INFO  testCases.TC002_Login_Test - ++++++ Starting verify_login ++++++
+18:07:56.369 [main] INFO  testCases.TC002_Login_Test - Clicked on My account link
+18:07:58.174 [main] INFO  testCases.TC002_Login_Test - Clicked on Login link
+18:07:58.330 [main] INFO  testCases.TC002_Login_Test - Providing login info
+18:07:59.948 [main] INFO  testCases.TC002_Login_Test - Clicked on continue
+18:08:02.952 [main] INFO  testCases.TC002_Login_Test - Validating expected msg
+18:08:03.038 [main] INFO  testCases.TC002_Login_Test - +++ Finished Login & Logout test ++++++ 
